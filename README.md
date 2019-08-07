@@ -30,3 +30,7 @@ npm install gh-pages
 - [x] Async-Await
 - [x] Updating Movie Component
 - [x] Deploy(Production)
+
+## Page
+
+http://JangJur.github.io/movie-app-clone
